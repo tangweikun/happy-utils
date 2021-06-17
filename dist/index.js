@@ -1,0 +1,1 @@
+(()=>{"use strict";var o,e={};(o=e).__esModule=!0,o.foo=void 0,o.foo=function(o,e){return{sum:o+e,avg:(o+e)/2}},module.exports=e})();
